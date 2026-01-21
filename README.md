@@ -22,12 +22,12 @@ I'm Renako (she/her), a curious developer who enjoys learning and building proje
 
 ## Featured Projects
 <!-- START_FEATURED -->
+- [dev-manager-desktop](https://github.com/renakome/dev-manager-desktop) — Device/DevMode Manager for webOS TV
+- [better-xcloud-tv](https://github.com/renakome/better-xcloud-tv)
 - [libraudio](https://github.com/renakome/libraudio) — A fork of https://github.com/MusilyApp/musily
 - [osu-framework](https://github.com/renakome/osu-framework) — A game framework written with osu! in mind.
 - [libraudio_installer](https://github.com/renakome/libraudio_installer)
 - [me](https://github.com/renakome/me) — Portfolio.
-- [osu-zenith-pages](https://github.com/renakome/osu-zenith-pages) — static web github pages for osu zenith server.
-- [osu-web](https://github.com/renakome/osu-web) — the browser-facing portion of osu!
 <!-- END_FEATURED -->
 
 ---
