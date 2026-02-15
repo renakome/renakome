@@ -13,7 +13,7 @@ I'm Renako (she/her), a curious developer who enjoys learning and building proje
 - 🌱 Learning new tools and languages, acctually luau i think?
 - 👯 Open to collaborate on front-end, bots, and small apps
 - 💬 Ask me about Kotlin, Python
-- 📫 Contact: [https://github.com/renakome](https://github.com/renakome)
+- 📫 Contact: [Instagram](https://www.instagram.com/renako.me?igsh=d3IzeDZsdnI5cW0y)
 
 ## My Wife, Hana 💗
 I am only Hana. She's my favorite and my greatest inspiration. ♡
