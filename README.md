@@ -7,7 +7,7 @@
 </p>
 
 ## About me
-I'm Renako (she/her), a curious developer who enjoys learning and building projects.
+I'm Isabella (she/her), a curious developer who enjoys learning and building projects.
 
 - 🔭 Currently working on: personal projects and continuous learning
 - 🌱 Learning new tools and languages, acctually luau i think?
