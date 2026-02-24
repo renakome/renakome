@@ -19,7 +19,7 @@ I'm Isabella (she/her), a curious developer who enjoys learning and building pro
 I am only Hana. She's my favorite and my greatest inspiration. ♡
 
 <p align="center">
-  <img src="https://ik.imagekit.io/fzm2xofxnr/4ed1983c2310cd48db5e0213b1fd8ca0.jpg" alt="Hana" width="400"/>
+  <img src="https://ik.imagekit.io/fzm2xofxnr/4ed1983c2310cd48db5e0213b1fd8ca0.jpg" alt="Hana and me" width="400"/>
 </p>
 
 ## Technologies & Skills
